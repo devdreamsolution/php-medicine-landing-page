@@ -17,7 +17,7 @@
 				<div class="form-wizard">
 					<form action="" method="post" role="form">
 						<div>
-							<a href="index.html"><img class="logo" src="image/logo.png" height="90px;" alt=""></a>
+							<a href="index.html"><img class="logo" src="images/logo.png" height="90px;" alt=""></a>
 						</div>
 						
 						<div class="form-wizard-header">
