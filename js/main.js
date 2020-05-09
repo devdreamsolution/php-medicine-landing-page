@@ -162,7 +162,7 @@ jQuery(document).ready(function() {
 
 // init function
 function init(){
-    // jQuery('.wizard-show').hide();
+    jQuery('.wizard-show').hide();
 }
 
 
